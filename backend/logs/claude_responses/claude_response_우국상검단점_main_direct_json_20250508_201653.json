@@ -1,0 +1,1398 @@
+{
+  "timestamp": "2025-05-08T20:16:53.263540",
+  "shop_name": "우국상검단점_main_direct_json",
+  "content_type": "json",
+  "content": {
+    "time_based_orders": [
+      {
+        "time": "오전 12:09",
+        "customer": "슉슉2811",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 12:11",
+        "customer": "동쓰 3563",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 12:40",
+        "customer": "서준맘",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 12:59",
+        "customer": "뜨라",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 1:11",
+        "customer": "두둥 8729",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 1:12",
+        "customer": "길과공원 0065",
+        "item": "우엉김밥",
+        "quantity": 2,
+        "note": "줄"
+      },
+      {
+        "time": "오전 1:18",
+        "customer": "라라5",
+        "item": "꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 1:18",
+        "customer": "라라5",
+        "item": "황매실청",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 1:21",
+        "customer": "라라5",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 1:36",
+        "customer": "풍경 6490",
+        "item": "우엉김밥",
+        "quantity": 2,
+        "note": "줄"
+      },
+      {
+        "time": "오전 1:37",
+        "customer": "라이언 0727",
+        "item": "마늘빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 5:54",
+        "customer": "우아인 6880",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 5:54",
+        "customer": "우아인 6880",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 5:58",
+        "customer": "최윤정 6100",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:01",
+        "customer": "최윤정 6100",
+        "item": "마늘빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 6:02",
+        "customer": "스텔라 1787",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:22",
+        "customer": "찐이야 7354",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 6:22",
+        "customer": "찐이야 7354",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:24",
+        "customer": "커피포리 1568",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:34",
+        "customer": "꽃마리 1294",
+        "item": "꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:34",
+        "customer": "꽃마리 1294",
+        "item": "김밥",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:34",
+        "customer": "꽃마리 1294",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:34",
+        "customer": "꽃마리 1294",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:01",
+        "customer": "돈데크만 0521",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 7:01",
+        "customer": "돈데크만 0521",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:06",
+        "customer": "유유 7968",
+        "item": "황매실청",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:11",
+        "customer": "2331",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:12",
+        "customer": "하루 4902",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 7:12",
+        "customer": "하루 4902",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:16",
+        "customer": "미나 5752",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:16",
+        "customer": "미나 5752",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:23",
+        "customer": "크림 2821",
+        "item": "감바스",
+        "quantity": 1,
+        "note": "목"
+      },
+      {
+        "time": "오전 7:23",
+        "customer": "크림 2821",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": "목"
+      },
+      {
+        "time": "오전 7:28",
+        "customer": "비옷입은 튜브 2794",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:28",
+        "customer": "비옷입은 튜브 2794",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:34",
+        "customer": "돼지엄마",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:36",
+        "customer": "올리브",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:36",
+        "customer": "올리브",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:36",
+        "customer": "방자매 맘",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:36",
+        "customer": "방자매 맘",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:38",
+        "customer": "제풍댁",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:38",
+        "customer": "제풍댁",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:50",
+        "customer": "여노기 2119",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 7:58",
+        "customer": "흰둥맘 3798",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:58",
+        "customer": "흰둥맘 3798",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:00",
+        "customer": "리지 0353",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:00",
+        "customer": "리지 0353",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:04",
+        "customer": "SSin 0330",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 8:04",
+        "customer": "SSin 0330",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:08",
+        "customer": "길과공원 0065",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:08",
+        "customer": "길과공원 0065",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:19",
+        "customer": "아마오정 2702",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:22",
+        "customer": "스마일먀~ 8958",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:22",
+        "customer": "스마일먀~ 8958",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:22",
+        "customer": "ㅎㅎ리 0753",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:23",
+        "customer": "우하하하 3207",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:23",
+        "customer": "우하하하 3207",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:23",
+        "customer": "힐스 4326",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:29",
+        "customer": "진미채 0528",
+        "item": "김밥",
+        "quantity": 4,
+        "note": "줄"
+      },
+      {
+        "time": "오전 8:29",
+        "customer": "도담 8761",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:53",
+        "customer": "키키 7687",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:53",
+        "customer": "예예 0511",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:54",
+        "customer": "나는 7830",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:55",
+        "customer": "윰 9119",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:56",
+        "customer": "후리지아 7472",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:56",
+        "customer": "JNH 6787",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:56",
+        "customer": "깡제이지 5869",
+        "item": "콩쑥개떡",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오전 8:57",
+        "customer": "문라이트 3494",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:57",
+        "customer": "해피쏭",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:57",
+        "customer": "어흥 5440",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:57",
+        "customer": "방자매 맘 2448",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:58",
+        "customer": "이미정",
+        "item": "한돈광양불고기",
+        "quantity": 2,
+        "note": "팩"
+      },
+      {
+        "time": "오전 8:58",
+        "customer": "이미정",
+        "item": "민물장어탕",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:58",
+        "customer": "이미정",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:59",
+        "customer": "정남매 2330",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 8:59",
+        "customer": "굿데이♡ 6856",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:00",
+        "customer": "하이디 6242",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "time": "오전 9:00",
+        "customer": "돼지엄마",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:00",
+        "customer": "♡ 0009",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:00",
+        "customer": "♡ 0009",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:03",
+        "customer": "돌잉 0309",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:03",
+        "customer": "썬 0464",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:04",
+        "customer": "클로이 1107",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:05",
+        "customer": "쩡 0626",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:06",
+        "customer": "푸푸 4424",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:06",
+        "customer": "9963 밍이 9963",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:06",
+        "customer": "붕어빵",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:06",
+        "customer": "신현실발렌티나 6114",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:07",
+        "customer": "도정희 1363",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:09",
+        "customer": "이씨남매네 6536",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:09",
+        "customer": "티티 5908",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:10",
+        "customer": "깡총 2493",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:11",
+        "customer": "2331",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:13",
+        "customer": "망고버터 2360",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:13",
+        "customer": "워니3",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:13",
+        "customer": "워니3",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:13",
+        "customer": "우리사랑이 0794",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:14",
+        "customer": "1002",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:14",
+        "customer": "두리",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:15",
+        "customer": "로즈나",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:15",
+        "customer": "제풍댁",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "돈돈맘 2733",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "돈돈맘 2733",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "돈돈맘 2733",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "커피포리 1568",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "티티 5908",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:18",
+        "customer": "티티 5908",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:19",
+        "customer": "띵동 1079",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:20",
+        "customer": "호호호",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:20",
+        "customer": "쑥떡쑥쑥 7032",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:21",
+        "customer": "초코흑미 9020",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:22",
+        "customer": "난둥달둥 4256",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:23",
+        "customer": "하트뽕♡",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:28",
+        "customer": "제풍댁",
+        "item": "검은콩두유",
+        "quantity": 1,
+        "note": "마감"
+      },
+      {
+        "time": "오전 9:32",
+        "customer": "깨비엄마 6441",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:37",
+        "customer": "느티",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:37",
+        "customer": "느티",
+        "item": "한돈광양불고기",
+        "quantity": 1,
+        "note": "마감"
+      },
+      {
+        "time": "오전 9:39",
+        "customer": "미소 0065",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:40",
+        "customer": "스텔라 1787",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:40",
+        "customer": "지나킴 4117",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:41",
+        "customer": "마니마니 0849",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:41",
+        "customer": "사파이어 3894",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:41",
+        "customer": "행복맘 2855",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "호두맘",
+        "item": "돼지목살왕구이",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "호두맘",
+        "item": "청국장",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "비타민 2516",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "비타민 2516",
+        "item": "감바스",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "달려라 로키 0319",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "운동하는 라이언 1214",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:43",
+        "customer": "방자매 맘 2448",
+        "item": "밥꾹추어탕",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:45",
+        "customer": "치즈 8824",
+        "item": "감바스",
+        "quantity": 3,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:45",
+        "customer": "치즈 8824",
+        "item": "콩쑥개떡",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오전 9:46",
+        "customer": "에놀하니 2115",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:46",
+        "customer": "에놀하니 2115",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:46",
+        "customer": "쓰리유 7945",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:46",
+        "customer": "깡제이지",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:47",
+        "customer": "호이호이 0363",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:47",
+        "customer": "옥란 4811",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:47",
+        "customer": "Jenny 7458",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:48",
+        "customer": "로즈나 0122",
+        "item": "콩쑥개떡",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:49",
+        "customer": "밥먹자 0744",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:49",
+        "customer": "김썰 4571",
+        "item": "감바스",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:49",
+        "customer": "김썰 4571",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오전 9:50",
+        "customer": "밍밍",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:50",
+        "customer": "밍밍",
+        "item": "목살왕구이",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:50",
+        "customer": "밍밍",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:50",
+        "customer": "밍밍",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:50",
+        "customer": "붕어빵",
+        "item": "청국장찌개",
+        "quantity": 3,
+        "note": "팩"
+      }
+    ],
+    "customer_based_orders": [
+      {
+        "customer": "슉슉2811",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "동쓰 3563",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "서준맘",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "뜨라",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "두둥 8729",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "길과공원 0065",
+        "item": "우엉김밥",
+        "quantity": 2,
+        "note": "줄"
+      },
+      {
+        "customer": "길과공원 0065",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "길과공원 0065",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "라라5",
+        "item": "꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "라라5",
+        "item": "황매실청",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "라라5",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "풍경 6490",
+        "item": "우엉김밥",
+        "quantity": 2,
+        "note": "줄"
+      },
+      {
+        "customer": "풍경 6490",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "라이언 0727",
+        "item": "마늘빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "우아인 6880",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "우아인 6880",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "최윤정 6100",
+        "item": "마늘빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "스텔라 1787",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "스텔라 1787",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "찐이야 7354",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "찐이야 7354",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "커피포리 1568",
+        "item": "벌꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "커피포리 1568",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "꿀",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "김밥",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "코다리",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꽃마리 1294",
+        "item": "홍게",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "돈데크만 0521",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "돈데크만 0521",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "돈데크만 0521",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "유유 7968",
+        "item": "황매실청",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "2331",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "2331",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "하루 4902",
+        "item": "감바스",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "하루 4902",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "미나 5752",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "미나 5752",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "크림 2821",
+        "item": "감바스",
+        "quantity": 1,
+        "note": "목"
+      },
+      {
+        "customer": "크림 2821",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": "목"
+      },
+      {
+        "customer": "비옷입은 튜브 2794",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "비옷입은 튜브 2794",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "돼지엄마",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "돼지엄마",
+        "item": "한우",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "올리브",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "올리브",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "올리브",
+        "item": "홍게",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "올리브",
+        "item": "한우",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "방자매 맘",
+        "item": "감바스",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "방자매 맘",
+        "item": "마늘빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "방자매 맘",
+        "item": "콩쑥개떡",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "방자매 맘",
+        "item": "밥꾹추어탕",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "방자매 맘",
+        "item": "홍게",
+        "quantity": 2,
+        "note": ""
+      }
+    ],
+    "order_pattern_analysis": {
+      "peak_hours": [
+        "오전 7:00-8:00",
+        "오전 9:00-10:00",
+        "오후 7:00-8:00"
+      ],
+      "popular_items": [
+        "콩쑥개떡",
+        "감바스",
+        "마늘빵",
+        "홍게",
+        "한우"
+      ],
+      "sold_out_items": [
+        "광양 한돈 불고기",
+        "통영 가리비",
+        "민물 장어탕",
+        "연세두유",
+        "초코케이크"
+      ]
+    }
+  }
+}
