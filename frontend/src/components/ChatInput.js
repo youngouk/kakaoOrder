@@ -1,5 +1,7 @@
 import React, { useState, useRef } from 'react';
 import axios from 'axios';
+// API base URL configurable via environment variable
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:8000';
 
 function ChatInput({ onSubmit, isLoading }) {
   const [conversation, setConversation] = useState('');
@@ -81,7 +83,7 @@ function ChatInput({ onSubmit, isLoading }) {
         }
         
         // API 요청 보내기
-        const apiUrl = 'http://localhost:8000/api/analyze-file';
+        const apiUrl = `${API_BASE_URL}/api/analyze-file`;
         console.log('파일 업로드 요청:', apiUrl);
         
         const response = await axios.post(apiUrl, formData, {
