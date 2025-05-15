@@ -4,8 +4,8 @@ import ChatInput from './components/ChatInput';
 import ResultDisplay from './components/ResultDisplay';
 import './App.css';
 
-// API base URL (deployed backend)
-const API_BASE_URL = 'https://backend-production-1309.up.railway.app';
+// API base URL configurable via environment variable
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:8000';
 
 function App() {
   const [analysisData, setAnalysisData] = useState(null);
