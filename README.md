@@ -24,24 +24,43 @@
 
 ## 프로젝트 구조
 
-```
+```text
 kakaoOrder/
 │
 ├── backend/          # Python FastAPI 백엔드
-│   ├── app.py        # 메인 서버 및 API 엔드포인트
-│   ├── llm_service.py # LLM(Claude) 통합 서비스
-│   └── requirements.txt
-│
+│   ├── main.py       # 메인 서버 및 API 엔드포인트
+│   ├── config.py     # 환경 변수 및 설정
+│   ├── requirements.txt # 백엔드 의존성 목록
+│   ├── api/          # FastAPI 라우터 및 핸들러 모듈
+│   │   ├── router.py
+│   │   ├── handlers.py
+│   │   └── models.py
+│   ├── services/     # 비즈니스 로직 서비스 모듈
+│   │   ├── llm_service.py
+│   │   ├── product_service.py
+│   │   ├── preprocess_chat.py
+│   │   ├── analysis_service.py
+│   │   └── export_service.py
+│   ├── utils/        # 유틸리티 모듈
+│   │   ├── text_processing.py
+│   │   ├── validation.py
+│   │   └── date_utils.py
+│   └── logs/         # 분석 중 생성되는 로그 및 파일
+│       ├── preprocessed_texts/
+│       ├── claude_responses/
+│       ├── fallback_raw_json/
+│       ├── stream_chunks/
+│       └── fallback_stream_chunks/
 └── frontend/         # React.js 프론트엔드
     ├── public/
     │   └── index.html
     ├── src/
-    │   ├── App.js        # 메인 애플리케이션 컴포넌트
-    │   ├── App.css       # 스타일 정의
-    │   ├── index.js      # 진입점
+    │   ├── App.js
+    │   ├── App.css
+    │   ├── index.js
     │   └── components/
-    │       ├── ChatInput.js       # 대화 입력 컴포넌트
-    │       └── ResultDisplay.js   # 결과 표시 컴포넌트
+    │       ├── ChatInput.js
+    │       └── ResultDisplay.js
     └── package.json
 ```
 
@@ -134,10 +153,10 @@ kakaoOrder/
    ANTHROPIC_API_KEY=your_api_key_here
    ```
 4. 서버 실행:
-   ```
-   python app.py
-   ```
-   서버는 기본적으로 http://localhost:8000 에서 실행됩니다.
+```bash
+cd backend && uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
+서버는 기본적으로 http://localhost:8000 에서 실행됩니다.
 
 ### 프론트엔드 설정
 
@@ -176,7 +195,9 @@ kakaoOrder/
 
 ## API 엔드포인트
 
-- **POST /api/analyze**: 대화 분석 요청
-- **GET /api/result/{job_id}**: 분석 결과 확인
-- **POST /api/generate-csv**: CSV 데이터 생성
-- **GET /api/jobs**: 모든 분석 작업 목록 (관리자용)
+- **POST /api/analyze**: 텍스트 대화 분석 요청
+- **POST /api/analyze-file**: 업로드된 TXT 파일 분석 요청
+- **GET /api/result/{job_id}**: 분석 결과 조회
+- **POST /api/generate-csv**: 분석 결과 기반 CSV 생성 (선택적)
+- **GET /api/jobs**: 모든 분석 작업 목록 조회 (관리자용)
+- **GET /api/health**: 서버 상태 확인

@@ -346,34 +346,17 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
             full_text_response = ""
             chunk_counter = 0
             
-            stream_chunks_file = f"main_stream_chunks_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-            logs_dir = pathlib.Path(__file__).parent.parent / "logs" / "stream_chunks"
-            logs_dir.mkdir(parents=True, exist_ok=True)
-            stream_file_path = logs_dir / stream_chunks_file
+            for chunk in stream_response:
+                chunk_counter += 1
+                try:
+                    if chunk.type == 'content_block_delta' and hasattr(chunk.delta, 'text'):
+                        full_text_response += chunk.delta.text
+                    # ignore other chunk types for logging
+                except Exception:
+                    pass
             
-            with open(stream_file_path, 'w', encoding='utf-8') as stream_file:
-                stream_file.write(f"===== 메인 분석 스트리밍 응답 로그 시작 (시간: {datetime.now().isoformat()}) =====\n\n")
-                for chunk in stream_response:
-                    chunk_counter += 1
-                    try:
-                        chunk_info = f"청크 #{chunk_counter} 타입: {chunk.type}"
-                        if chunk.type == 'content_block_delta' and hasattr(chunk.delta, 'text'):
-                            text_delta = chunk.delta.text
-                            full_text_response += text_delta
-                            chunk_info += f" | 텍스트: {text_delta[:50]}{'...' if len(text_delta) > 50 else ''}"
-                        elif chunk.type == 'message_delta' and hasattr(chunk.delta, 'usage'):
-                             chunk_info += f" | 사용량 업데이트: {chunk.delta.usage}"
-                        stream_file.write(f"{chunk_info}\n{'-'*50}\n")
-                    except Exception as e:
-                        stream_file.write(f"청크 로깅 중 오류: {str(e)}\n{'-'*50}\n")
-                    
-                stream_file.write(f"\n===== 메인 분석 스트리밍 응답 로그 종료 (총 {chunk_counter}개 청크) =====\n")
-                stream_file.write("\n\n===== 전체 텍스트 응답 (메인 분석) =====\n")
-                stream_file.write(full_text_response)
-
             print(f"총 {chunk_counter}개 청크 처리 완료 (메인 분석)")
             logging.info(f"총 {chunk_counter}개 청크 처리 완료 (메인 분석)")
-            logging.info(f"메인 분석 스트리밍 응답 청크가 {stream_file_path} 파일에 저장되었습니다.")
 
             if full_text_response:
                 print("메인 분석 결과 (텍스트)에서 JSON 추출 시도 중...")
@@ -940,51 +923,13 @@ def _process_fallback_chunk(
             ]
         )
 
-        stream_log_filename = f"fallback_chunk_{chunk_index+1}_stream_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-        logs_dir = pathlib.Path(__file__).parent.parent / "logs" / "fallback_stream_chunks"
-        logs_dir.mkdir(parents=True, exist_ok=True)
-        stream_log_path = logs_dir / stream_log_filename
-
-        with open(stream_log_path, 'w', encoding='utf-8') as log_f:
-            log_f.write(f"===== 대체 처리 청크 {chunk_index+1}/{total_chunks} 스트리밍 로그 시작 =====\n")
-            log_f.write(f"System Prompt Hash: {hash(system_prompt_for_fallback_chunk)}\n") # 프롬프트 변경 확인용
-            log_f.write(f"User Content (first 200 chars): {chunk_text[:200]}...\n{'-'*60}\n")
-
-            for chunk_item in stream_response:
-                log_f.write(f"Chunk Type: {chunk_item.type}\n")
-                if hasattr(chunk_item, 'index') and chunk_item.index is not None: log_f.write(f"Index: {chunk_item.index}\n")
-
-                if chunk_item.type == 'message_start':
-                    log_f.write(f"  Role: {chunk_item.message.role}, Model: {chunk_item.message.model}\n")
-                elif chunk_item.type == 'content_block_start':
-                    if chunk_item.content_block.type == 'tool_use':
-                        tool_actually_used = True
-                        log_f.write(f"  Tool Use Start: Name: {chunk_item.content_block.name}, ID: {chunk_item.content_block.id}\n")
-                elif chunk_item.type == 'content_block_delta':
-                    if chunk_item.delta.type == 'text_delta':
-                        full_text_content_stream += chunk_item.delta.text
-                        log_f.write(f"  Text Delta: '{chunk_item.delta.text}'\n")
-                    elif chunk_item.delta.type == 'input_json_delta':
-                        if tool_actually_used:
-                            tool_input_json_parts.append(chunk_item.delta.partial_json)
-                            log_f.write(f"  Input JSON Delta (Partial): '{chunk_item.delta.partial_json}'\n")
-                elif chunk_item.type == 'message_delta':
-                    log_f.write(f"  Message Delta: Stop Reason: {chunk_item.delta.stop_reason}, Stop Seq: {chunk_item.delta.stop_sequence}\n")
-                    if hasattr(chunk_item, 'usage') and chunk_item.usage:
-                         log_f.write(f"  Usage: Input: {chunk_item.usage.input_tokens}, Output: {chunk_item.usage.output_tokens}\n")
-                log_f.write(f"{'-'*60}\n")
-        
-        logging.info(f"대체 처리 청크 {chunk_index+1}: 스트리밍 완료. 로그: {stream_log_path}")
+        # Removed fallback_stream_chunks file-based logging
 
         if tool_actually_used and tool_input_json_parts:
             complete_tool_input_json_str = "".join(tool_input_json_parts)
             logging.info(f"대체 처리 청크 {chunk_index+1}: 합쳐진 도구 입력 JSON (길이 {len(complete_tool_input_json_str)}): {complete_tool_input_json_str[:300]}...")
             
-            raw_json_dir = pathlib.Path(__file__).parent.parent / "logs" / "fallback_raw_json"
-            raw_json_dir.mkdir(parents=True, exist_ok=True)
-            raw_json_path = raw_json_dir / f"fallback_raw_tool_json_chunk_{chunk_index+1}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-            with open(raw_json_path, 'w', encoding='utf-8') as f: f.write(complete_tool_input_json_str)
-            logging.info(f"대체 처리 청크 {chunk_index+1}: 원본 도구 JSON 저장됨: {raw_json_path}")
+            # Removed fallback_raw_json file-based logging
 
             try:
                 result_json_obj = json.loads(complete_tool_input_json_str)

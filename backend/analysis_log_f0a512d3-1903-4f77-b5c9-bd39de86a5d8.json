@@ -1,0 +1,19 @@
+{
+  "time_based_orders": [],
+  "item_based_summary": [],
+  "customer_based_orders": [],
+  "table_summary": {
+    "headers": [
+      "품목",
+      "총수량",
+      "주문자"
+    ],
+    "rows": []
+  },
+  "order_pattern_analysis": {
+    "peak_hours": [],
+    "popular_items": [],
+    "sold_out_items": []
+  },
+  "shop_name": "우국상검단점"
+}
