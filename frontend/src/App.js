@@ -9,7 +9,6 @@ const API_BASE_URL = 'http://localhost:8000';
 
 function App() {
   const [analysisData, setAnalysisData] = useState(null);
-  const [jobId, setJobId] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [processingStatus, setProcessingStatus] = useState(null);
@@ -23,7 +22,6 @@ function App() {
     try {
       // 파일 업로드로 이미 요청을 보낸 경우
       if (data.isFileUpload && data.job_id) {
-        setJobId(data.job_id);
         checkAnalysisResult(data.job_id);
         return;
       }
@@ -39,7 +37,6 @@ function App() {
       if (response.data.success || response.data.job_id) {
         // job_id가 있는 경우 폴링 방식으로 결과 확인
         if (response.data.job_id) {
-          setJobId(response.data.job_id);
           checkAnalysisResult(response.data.job_id);
         } else if (response.data.data) {
           // 즉시 결과가 반환된 경우
@@ -93,7 +90,6 @@ function App() {
 
   const handleNewAnalysis = () => {
     setAnalysisData(null);
-    setJobId(null);
     setIsLoading(false);
     setError(null);
     setProcessingStatus(null);

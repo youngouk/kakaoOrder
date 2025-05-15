@@ -346,15 +346,15 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
             full_text_response = ""
             chunk_counter = 0
             
-            for chunk in stream_response:
-                chunk_counter += 1
-                try:
-                    if chunk.type == 'content_block_delta' and hasattr(chunk.delta, 'text'):
+                for chunk in stream_response:
+                    chunk_counter += 1
+                    try:
+                        if chunk.type == 'content_block_delta' and hasattr(chunk.delta, 'text'):
                         full_text_response += chunk.delta.text
                     # ignore other chunk types for logging
                 except Exception:
                     pass
-            
+
             print(f"총 {chunk_counter}개 청크 처리 완료 (메인 분석)")
             logging.info(f"총 {chunk_counter}개 청크 처리 완료 (메인 분석)")
 

@@ -367,7 +367,7 @@ function ResultDisplay({ analysisData, isLoading, shopName }) {
     const filename = `전체_주문내역_${analysisData.shop_name || shopName || '주문'}_${new Date().toISOString().split('T')[0]}.xlsx`;
     XLSX.writeFile(workbook, filename);
     
-  }, [analysisData]);
+  }, [analysisData, shopName]);
 
   if (isLoading) {
     return (
