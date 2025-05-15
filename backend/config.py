@@ -17,4 +17,5 @@ SELLER_KEYWORDS = [
 # API 설정
 API_TITLE = "KakaoOrder API"
 API_HOST = "0.0.0.0"
-API_PORT = 8000
+# Use dynamic port (Railway provides PORT env var)
+API_PORT = int(os.getenv("PORT", 8000))
