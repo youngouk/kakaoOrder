@@ -5,6 +5,7 @@ from typing import Dict, Any, Optional
 
 from services.llm_service import analyze_conversation
 from services.export_service import generate_csv_from_data
+from fastapi.concurrency import run_in_threadpool
 
 # 작업 상태 저장소
 analysis_jobs: Dict[str, Dict[str, Any]] = {}
@@ -175,12 +176,13 @@ async def process_conversation_task(job_id: str, conversation: str, start_date: 
         # 대화 분석 요청
         analysis_jobs[job_id]["status"] = "analyzing"
         
-        # LLM 서비스로 분석 요청
-        result = analyze_conversation(
-            conversation_text=conversation,
-            start_date=start_date,
-            end_date=end_date,
-            shop_name=shop_name
+        # LLM 서비스로 분석 요청 (별도 스레드에서 실행하여 이벤트 루프 블로킹 방지)
+        result = await run_in_threadpool(
+            analyze_conversation,
+            conversation,
+            start_date,
+            end_date,
+            shop_name
         )
         
         # 분석 결과 확인
