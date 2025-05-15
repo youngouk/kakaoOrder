@@ -4,8 +4,8 @@ import ChatInput from './components/ChatInput';
 import ResultDisplay from './components/ResultDisplay';
 import './App.css';
 
-// API base URL
-const API_BASE_URL = 'http://localhost:8000';
+// API base URL (deployed backend)
+const API_BASE_URL = 'https://overflowing-truth.railway.internal';
 
 function App() {
   const [analysisData, setAnalysisData] = useState(null);
