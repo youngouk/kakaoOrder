@@ -5,7 +5,7 @@ import ResultDisplay from './components/ResultDisplay';
 import './App.css';
 
 // API base URL (deployed backend)
-const API_BASE_URL = 'https://overflowing-truth.railway.internal';
+const API_BASE_URL = 'https://backend-production-1309.up.railway.app';
 
 function App() {
   const [analysisData, setAnalysisData] = useState(null);
