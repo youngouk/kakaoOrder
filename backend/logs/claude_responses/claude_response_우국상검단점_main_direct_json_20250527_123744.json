@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-05-27T12:37:44.356215",
+  "shop_name": "우국상검단점_main_direct_json",
+  "content_type": "json",
+  "content": {
+    "time_based_orders": [
+      {
+        "time": "오후 10:33",
+        "customer": "유리가면 3080",
+        "item": "노르웨이 슈페리어 S등급 생연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:37",
+        "customer": "쏭아",
+        "item": "우유식빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:40",
+        "customer": "두공주맘 2699",
+        "item": "들깨세럼",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:42",
+        "customer": "행운돼지 2960",
+        "item": "도드람 간장불고기",
+        "quantity": 1,
+        "note": "수요일 수령"
+      },
+      {
+        "time": "오후 10:43",
+        "customer": "지석장군",
+        "item": "땅콩버터",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:46",
+        "customer": "킹모찌 5763",
+        "item": "나초 아미고",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 10:47",
+        "customer": "신나는 프로도 8593",
+        "item": "나초 아미고",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:49",
+        "customer": "딸기맘 6760",
+        "item": "노르웨이 슈페리어 S등급 생연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:49",
+        "customer": "정남매 2330",
+        "item": "나초 아미고",
+        "quantity": 2,
+        "note": "월요일 수령"
+      }
+    ],
+    "customer_based_orders": [
+      {
+        "customer": "유리가면 3080",
+        "item": "노르웨이 슈페리어 S등급 생연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "쏭아",
+        "item": "우유식빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "두공주맘 2699",
+        "item": "들깨세럼",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "행운돼지 2960",
+        "item": "도드람 간장불고기",
+        "quantity": 1,
+        "note": "수요일 수령"
+      },
+      {
+        "customer": "지석장군",
+        "item": "땅콩버터",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "킹모찌 5763",
+        "item": "나초 아미고",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "신나는 프로도 8593",
+        "item": "나초 아미고",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "딸기맘 6760",
+        "item": "노르웨이 슈페리어 S등급 생연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "정남매 2330",
+        "item": "나초 아미고",
+        "quantity": 2,
+        "note": "월요일 수령"
+      }
+    ],
+    "order_pattern_analysis": {
+      "peak_hours": [
+        "오후 10:30-11:00"
+      ],
+      "popular_items": [
+        "나초 아미고",
+        "노르웨이 슈페리어 S등급 생연어필렛"
+      ],
+      "sold_out_items": []
+    }
+  }
+}

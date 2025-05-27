@@ -1,0 +1,2483 @@
+{
+  "status": "completed",
+  "result": {
+    "time_based_orders": [
+      {
+        "time": "오전 12:30",
+        "customer": "4003동 / 5968",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 6:44",
+        "customer": "두리",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 7:44",
+        "customer": "돼지엄마",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "박스"
+      },
+      {
+        "time": "오전 7:46",
+        "customer": "송이♡",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "박스"
+      },
+      {
+        "time": "오전 7:56",
+        "customer": "진미채0528",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 8:13",
+        "customer": "뚝딱",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "월요일"
+      },
+      {
+        "time": "오전 8:21",
+        "customer": "율이담이",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 8:43",
+        "customer": "9342",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:05",
+        "customer": "비타민",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 9:11",
+        "customer": "어흥",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:14",
+        "customer": "엄지척",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:27",
+        "customer": "힐3",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:32",
+        "customer": "hj♥",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:49",
+        "customer": "링고13",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 9:59",
+        "customer": "검단",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 10:02",
+        "customer": "111동 Joy",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오전 11:40",
+        "customer": "온온",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오전 11:59",
+        "customer": "아마오정",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:06",
+        "customer": "여니~",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:06",
+        "customer": "유유",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:07",
+        "customer": "뚝딱",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:08",
+        "customer": "도브로",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:08",
+        "customer": "이향순",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:08",
+        "customer": "2331",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 12:10",
+        "customer": "음악듣는 어피치",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:10",
+        "customer": "Ban",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 12:11",
+        "customer": "Ban",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:13",
+        "customer": "햄9440",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:14",
+        "customer": "졸린 무지",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:15",
+        "customer": "달이맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:15",
+        "customer": "행복맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:15",
+        "customer": "봄여름",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 12:18",
+        "customer": "이신옥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:19",
+        "customer": "민민맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:22",
+        "customer": "리지",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:24",
+        "customer": "크크",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 12:26",
+        "customer": "미세스김",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:30",
+        "customer": "sun",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:31",
+        "customer": "sun",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오후 12:33",
+        "customer": "마미염0486",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "21일 수요일"
+      },
+      {
+        "time": "오후 12:33",
+        "customer": "초코볼",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 12:36",
+        "customer": "징징이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:41",
+        "customer": "쑤니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:41",
+        "customer": "불로댁",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:42",
+        "customer": "빛",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:45",
+        "customer": "라시맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:46",
+        "customer": "마미염0486",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수정"
+      },
+      {
+        "time": "오후 12:51",
+        "customer": "구리구리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수요일 7시이후 픽업"
+      },
+      {
+        "time": "오후 12:52",
+        "customer": "감귤",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 12:55",
+        "customer": "변남매 1463",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:01",
+        "customer": "4008동",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:06",
+        "customer": "연이",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:12",
+        "customer": "아마오정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:12",
+        "customer": "제이엘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:13",
+        "customer": "운동하는 라이언",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:13",
+        "customer": "바다^",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 1:13",
+        "customer": "114동 쏘쏘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:16",
+        "customer": "난이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:18",
+        "customer": "카닉 7691",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:21",
+        "customer": "플렉스곰곰이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:21",
+        "customer": "봄봄봄",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:22",
+        "customer": "열매",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:23",
+        "customer": "소호",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "time": "오후 1:27",
+        "customer": "레모/1310",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:27",
+        "customer": "HyoJoo♡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:28",
+        "customer": "마조리카",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:28",
+        "customer": "마조리카",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:28",
+        "customer": "♡♡♡♡♡",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:29",
+        "customer": "1002",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:29",
+        "customer": "빈털터리 제이지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:30",
+        "customer": "오구오구",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:30",
+        "customer": "제풍 제풍",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:31",
+        "customer": "모덴",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 1:32",
+        "customer": "꽃비",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "time": "오후 1:32",
+        "customer": "현주맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:33",
+        "customer": "호호호",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:34",
+        "customer": "피치",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 1:40",
+        "customer": "녕녕",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오후 1:42",
+        "customer": "동쓰",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:02",
+        "customer": "포카리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:02",
+        "customer": "우쭈쭈",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "추가"
+      },
+      {
+        "time": "오후 2:02",
+        "customer": "장바구니 가득",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:02",
+        "customer": "김정순",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:03",
+        "customer": "5059",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:03",
+        "customer": "운동하는 라이언",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "추가"
+      },
+      {
+        "time": "오후 2:04",
+        "customer": "푸른",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:07",
+        "customer": "호두맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:07",
+        "customer": "달려라 로키",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:08",
+        "customer": "로즈",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:10",
+        "customer": "윤준맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:10",
+        "customer": "나야나",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:12",
+        "customer": "제인 6772",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 2:12",
+        "customer": "다디단",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:13",
+        "customer": "킹모찌",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:14",
+        "customer": "제니 오",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:14",
+        "customer": "현주맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "추가"
+      },
+      {
+        "time": "오후 2:20",
+        "customer": "나미",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오후 2:20",
+        "customer": "히히호호",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:20",
+        "customer": "메이란",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수요일수령"
+      },
+      {
+        "time": "오후 2:20",
+        "customer": "라시맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수정"
+      },
+      {
+        "time": "오후 2:23",
+        "customer": "별사탕",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:24",
+        "customer": "쭌이^^",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:25",
+        "customer": "뚝딱",
+        "item": "브라우니",
+        "quantity": 3,
+        "note": "추가"
+      },
+      {
+        "time": "오후 2:25",
+        "customer": "뚝딱",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가 총 2개"
+      },
+      {
+        "time": "오후 2:26",
+        "customer": "지석장군",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:26",
+        "customer": "힐3",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:29",
+        "customer": "미세스김",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가 합 2개"
+      },
+      {
+        "time": "오후 2:30",
+        "customer": "다지파파79",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:30",
+        "customer": "풍경채 1차",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:32",
+        "customer": "요니요니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:37",
+        "customer": "박명희",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:42",
+        "customer": "호로록",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 2:42",
+        "customer": "hj♥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:46",
+        "customer": "달이맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가(총 연어2팩)"
+      },
+      {
+        "time": "오후 2:52",
+        "customer": "졸린 무지",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 2:59",
+        "customer": "바다",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:00",
+        "customer": "베리",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "time": "오후 3:02",
+        "customer": "휘파람0852",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:04",
+        "customer": "마미염0486",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "time": "오후 3:05",
+        "customer": "바다",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:05",
+        "customer": "댕굴댕굴0177",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "time": "오후 3:05",
+        "customer": "111동 Joy",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:06",
+        "customer": "햅삐",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "time": "오후 3:08",
+        "customer": "동쓰",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:09",
+        "customer": "배리",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:10",
+        "customer": "행운돼지",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월(19)"
+      },
+      {
+        "time": "오후 3:14",
+        "customer": "소원맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:17",
+        "customer": "산타맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:18",
+        "customer": "휘파람0852",
+        "item": "소금빵",
+        "quantity": 3,
+        "note": "추가"
+      },
+      {
+        "time": "오후 3:21",
+        "customer": "박진하",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:21",
+        "customer": "하트뿅뿅 라이언",
+        "item": "소금빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 3:22",
+        "customer": "풍경",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:22",
+        "customer": "풍경",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:22",
+        "customer": "0722",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:24",
+        "customer": "꿈다방/7590",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:24",
+        "customer": "달달",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:26",
+        "customer": "113동 까치",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:28",
+        "customer": "신모양",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:29",
+        "customer": "👍",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:29",
+        "customer": "안기자♡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:30",
+        "customer": "어흥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:30",
+        "customer": "주니",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:31",
+        "customer": "라시맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:32",
+        "customer": "라시맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 3:47",
+        "customer": "돼지엄마",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "time": "오후 3:48",
+        "customer": "사랑하는 나의 이슬님",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오후 3:59",
+        "customer": "평정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 4:00",
+        "customer": "여니리니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:00",
+        "customer": "쩡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:06",
+        "customer": "퍼플플라워",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:08",
+        "customer": "star",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:17",
+        "customer": "seungyi",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:17",
+        "customer": "골든벨",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:23",
+        "customer": "샤이니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:27",
+        "customer": "은형",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 4:28",
+        "customer": "윤삼남매",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:30",
+        "customer": "레오~",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 4:36",
+        "customer": "난둥달둥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:43",
+        "customer": "조보견",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 4:50",
+        "customer": "퍼플플라워",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "취소"
+      },
+      {
+        "time": "오후 4:52",
+        "customer": "깐깐한무지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 5:02",
+        "customer": "조보견",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": "수정요"
+      },
+      {
+        "time": "오후 5:08",
+        "customer": "동그랑",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 5:10",
+        "customer": "크림레몬",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 5:15",
+        "customer": "양갱",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 5:16",
+        "customer": "귀한&귀동맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 5:16",
+        "customer": "돈돈맘",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "time": "오후 5:29",
+        "customer": "도정희",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 5:33",
+        "customer": "무지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 5:35",
+        "customer": "비타민",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 5:37",
+        "customer": "몽이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수요일"
+      },
+      {
+        "time": "오후 6:19",
+        "customer": "제인 6772",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "취소요"
+      },
+      {
+        "time": "오후 6:33",
+        "customer": "개굴",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 8:33",
+        "customer": "Ban",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 7:00",
+        "customer": "리오니7379",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 7:10",
+        "customer": "달콤봄밤",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 7:36",
+        "customer": "무밍",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 7:52",
+        "customer": "슐리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 7:57",
+        "customer": "망나뇽",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 7:59",
+        "customer": "찰떡망고",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 8:18",
+        "customer": "이레",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 8:29",
+        "customer": "웃자^o^",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "time": "오후 8:29",
+        "customer": "풍15",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 9:09",
+        "customer": "110동 민세려맘•임소정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 9:12",
+        "customer": "토리쑤니",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 9:12",
+        "customer": "이씨남매네",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "time": "오후 9:18",
+        "customer": "두공주맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 9:36",
+        "customer": "크롱크롱",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "time": "오후 10:20",
+        "customer": "쏭아",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:32",
+        "customer": "굿데이♡",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "time": "오후 10:33",
+        "customer": "유리가면",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "time": "오후 10:49",
+        "customer": "딸기맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "customer_based_orders": [
+      {
+        "customer": "4003동 / 5968",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "두리",
+        "item": "브라우니",
+        "quantity": 0,
+        "note": "취소"
+      },
+      {
+        "customer": "돼지엄마",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "박스"
+      },
+      {
+        "customer": "돼지엄마",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "customer": "송이♡",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "박스"
+      },
+      {
+        "customer": "진미채0528",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "뚝딱",
+        "item": "브라우니",
+        "quantity": 3,
+        "note": "월요일"
+      },
+      {
+        "customer": "뚝딱",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가 총 2개"
+      },
+      {
+        "customer": "율이담이",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "9342",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "비타민",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "비타민",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "어흥",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "어흥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "엄지척",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "힐3",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "힐3",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "hj♥",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "hj♥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "링고13",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "검단",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "111동 Joy",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "111동 Joy",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "온온",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "아마오정",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "아마오정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "여니~",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "유유",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "도브로",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "이향순",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "2331",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "음악듣는 어피치",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "Ban",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "Ban",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "Ban",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "햄9440",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "졸린 무지",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "달이맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가(총 연어2팩)"
+      },
+      {
+        "customer": "행복맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "봄여름",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "customer": "이신옥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "민민맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "리지",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "크크",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "미세스김",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가 합 2개"
+      },
+      {
+        "customer": "sun",
+        "item": "연어필렛",
+        "quantity": 0,
+        "note": "취소"
+      },
+      {
+        "customer": "마미염0486",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "21일 수요일"
+      },
+      {
+        "customer": "마미염0486",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "customer": "초코볼",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "customer": "징징이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "쑤니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "불로댁",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "빛",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "라시맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수정"
+      },
+      {
+        "customer": "라시맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "구리구리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수요일 7시이후 픽업"
+      },
+      {
+        "customer": "감귤",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "변남매 1463",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "4008동",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "연이",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "제이엘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "운동하는 라이언",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가"
+      },
+      {
+        "customer": "바다^",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "customer": "바다",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "바다",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "114동 쏘쏘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "난이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "카닉 7691",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "플렉스곰곰이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "봄봄봄",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "열매",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "소호",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "customer": "레모/1310",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "HyoJoo♡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "마조리카",
+        "item": "브라우니",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "마조리카",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "♡♡♡♡♡",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "1002",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "빈털터리 제이지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "오구오구",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "제풍 제풍",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "모덴",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "꽃비",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "customer": "현주맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "추가"
+      },
+      {
+        "customer": "호호호",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "피치",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "녕녕",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "customer": "동쓰",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "동쓰",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "포카리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "우쭈쭈",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "추가"
+      },
+      {
+        "customer": "장바구니 가득",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "김정순",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "5059",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "푸른",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "호두맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "달려라 로키",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "로즈",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "윤준맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "나야나",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "제인 6772",
+        "item": "연어필렛",
+        "quantity": 0,
+        "note": "취소요"
+      },
+      {
+        "customer": "다디단",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "킹모찌",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "제니 오",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "나미",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "customer": "히히호호",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "메이란",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수요일수령"
+      },
+      {
+        "customer": "별사탕",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "쭌이^^",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "지석장군",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "다지파파79",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "풍경채 1차",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "요니요니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "박명희",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "호로록",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "베리",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "세트"
+      },
+      {
+        "customer": "휘파람0852",
+        "item": "소금빵",
+        "quantity": 3,
+        "note": "추가"
+      },
+      {
+        "customer": "댕굴댕굴0177",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "customer": "햅삐",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월"
+      },
+      {
+        "customer": "배리",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "행운돼지",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": "월(19)"
+      },
+      {
+        "customer": "소원맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "산타맘",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "박진하",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "하트뿅뿅 라이언",
+        "item": "소금빵",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "풍경",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "풍경",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "0722",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "꿈다방/7590",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "달달",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "113동 까치",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "신모양",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "👍",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "안기자♡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "주니",
+        "item": "소금빵",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "사랑하는 나의 이슬님",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "customer": "평정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "여니리니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "쩡",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "퍼플플라워",
+        "item": "연어필렛",
+        "quantity": 0,
+        "note": "취소"
+      },
+      {
+        "customer": "star",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "seungyi",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "골든벨",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "샤이니",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "은형",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "윤삼남매",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "레오~",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "난둥달둥",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "조보견",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": "수정요"
+      },
+      {
+        "customer": "깐깐한무지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "동그랑",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "크림레몬",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "양갱",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "귀한&귀동맘",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "돈돈맘",
+        "item": "연어필렛",
+        "quantity": 3,
+        "note": ""
+      },
+      {
+        "customer": "도정희",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "무지",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "몽이",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수요일"
+      },
+      {
+        "customer": "개굴",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "리오니7379",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "달콤봄밤",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "무밍",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "슐리",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "망나뇽",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "찰떡망고",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "이레",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "웃자^o^",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "customer": "풍15",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "customer": "지남매",
+        "item": "브라우니",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "110동 민세려맘•임소정",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "토리쑤니",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "이씨남매네",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": "수"
+      },
+      {
+        "customer": "두공주맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "크롱크롱",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": "수"
+      },
+      {
+        "customer": "쏭아",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "굿데이♡",
+        "item": "연어필렛",
+        "quantity": 2,
+        "note": ""
+      },
+      {
+        "customer": "유리가면",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      },
+      {
+        "customer": "딸기맘",
+        "item": "연어필렛",
+        "quantity": 1,
+        "note": ""
+      }
+    ],
+    "item_based_summary": [
+      {
+        "item": "연어필렛",
+        "total_quantity": 195,
+        "customers": "1002, 110동 민세려맘•임소정, 111동 Joy, 114동 쏘쏘, 2331, 4008동, 5059, Ban, HyoJoo♡, hj♥, seungyi, star, sun, 감귤, 개굴, 골든벨, 구리구리, 굿데이♡, 귀한&귀동맘, 김정순, 깐깐한무지, 꽃비, 나미, 나야나, 난둥달둥, 난이, 녕녕, 다디단, 다지파파79, 달려라 로키, 달이맘, 달콤봄밤, 도브로, 도정희, 돈돈맘, 동그랑, 동쓰, 두공주맘, 딸기맘, 뚝딱, 라시맘, 레모/1310, 레오~, 로즈, 리오니7379, 리지, 마미염0486, 마조리카, 망나뇽, 메이란, 모덴, 몽이, 무밍, 무지, 미세스김, 민민맘, 바다, 바다^, 박명희, 변남매 1463, 별사탕, 봄봄봄, 봄여름, 불로댁, 비타민, 빈털터리 제이지, 빛, 사랑하는 나의 이슬님, 샤이니, 슐리, 쏭아, 쑤니, 아마오정, 안기자♡, 양갱, 어흥, 여니~, 여니리니, 연이, 열매, 오구오구, 요니요니, 우쭈쭈, 운동하는 라이언, 웃자^o^, 유리가면, 유유, 윤삼남매, 윤준맘, 은형, 음악듣는 어피치, 이레, 이신옥, 이씨남매네, 이향순, 장바구니 가득, 제니 오, 제이엘, 제인 6772, 제풍 제풍, 조보견, 졸린 무지, 지석장군, 징징이, 쩡, 쭌이^^, 찰떡망고, 초코볼, 카닉 7691, 크롱크롱, 크림레몬, 크크, 킹모찌, 토리쑤니, 퍼플플라워, 평정, 포카리, 푸른, 풍15, 풍경, 풍경채 1차, 플렉스곰곰이, 피치, 햄9440, 행복맘, 현주맘, 호두맘, 호로록, 호호호, 히히호호, 힐3"
+      },
+      {
+        "item": "브라우니",
+        "total_quantity": 31,
+        "customers": "111동 Joy, 4003동 / 5968, 9342, Ban, hj♥, ♡♡♡♡♡, 검단, 돼지엄마, 두리, 뚝딱, 링고13, 마조리카, 비타민, 소호, 송이♡, 아마오정, 어흥, 엄지척, 온온, 율이담이, 진미채0528, 힐3"
+      },
+      {
+        "item": "소금빵",
+        "total_quantity": 29,
+        "customers": "0722, 113동 까치, Ban, 꿈다방/7590, 달달, 댕굴댕굴0177, 동쓰, 돼지엄마, 라시맘, 마미염0486, 바다, 박진하, 배리, 베리, 산타맘, 소원맘, 신모양, 주니, 풍경, 하트뿅뿅 라이언, 햅삐, 행운돼지, 휘파람0852, 👍"
+      }
+    ],
+    "table_summary": {
+      "headers": [
+        "품목",
+        "총수량",
+        "주문자"
+      ],
+      "rows": [
+        [
+          "연어필렛",
+          "195",
+          "1002, 110동 민세려맘•임소정, 111동 Joy, 114동 쏘쏘, 2331, 4008동, 5059, Ban, HyoJoo♡, hj♥, seungyi, star, sun, 감귤, 개굴, 골든벨, 구리구리, 굿데이♡, 귀한&귀동맘, 김정순, 깐깐한무지, 꽃비, 나미, 나야나, 난둥달둥, 난이, 녕녕, 다디단, 다지파파79, 달려라 로키, 달이맘, 달콤봄밤, 도브로, 도정희, 돈돈맘, 동그랑, 동쓰, 두공주맘, 딸기맘, 뚝딱, 라시맘, 레모/1310, 레오~, 로즈, 리오니7379, 리지, 마미염0486, 마조리카, 망나뇽, 메이란, 모덴, 몽이, 무밍, 무지, 미세스김, 민민맘, 바다, 바다^, 박명희, 변남매 1463, 별사탕, 봄봄봄, 봄여름, 불로댁, 비타민, 빈털터리 제이지, 빛, 사랑하는 나의 이슬님, 샤이니, 슐리, 쏭아, 쑤니, 아마오정, 안기자♡, 양갱, 어흥, 여니~, 여니리니, 연이, 열매, 오구오구, 요니요니, 우쭈쭈, 운동하는 라이언, 웃자^o^, 유리가면, 유유, 윤삼남매, 윤준맘, 은형, 음악듣는 어피치, 이레, 이신옥, 이씨남매네, 이향순, 장바구니 가득, 제니 오, 제이엘, 제인 6772, 제풍 제풍, 조보견, 졸린 무지, 지석장군, 징징이, 쩡, 쭌이^^, 찰떡망고, 초코볼, 카닉 7691, 크롱크롱, 크림레몬, 크크, 킹모찌, 토리쑤니, 퍼플플라워, 평정, 포카리, 푸른, 풍15, 풍경, 풍경채 1차, 플렉스곰곰이, 피치, 햄9440, 행복맘, 현주맘, 호두맘, 호로록, 호호호, 히히호호, 힐3"
+        ],
+        [
+          "브라우니",
+          "31",
+          "111동 Joy, 4003동 / 5968, 9342, Ban, hj♥, ♡♡♡♡♡, 검단, 돼지엄마, 두리, 뚝딱, 링고13, 마조리카, 비타민, 소호, 송이♡, 아마오정, 어흥, 엄지척, 온온, 율이담이, 진미채0528, 힐3"
+        ],
+        [
+          "소금빵",
+          "29",
+          "0722, 113동 까치, Ban, 꿈다방/7590, 달달, 댕굴댕굴0177, 동쓰, 돼지엄마, 라시맘, 마미염0486, 바다, 박진하, 배리, 베리, 산타맘, 소원맘, 신모양, 주니, 풍경, 하트뿅뿅 라이언, 햅삐, 행운돼지, 휘파람0852, 👍"
+        ]
+      ]
+    },
+    "order_pattern_analysis": {
+      "peak_hours": [
+        "오전 9:00-10:00",
+        "오후 12:00-13:00",
+        "오후 2:00-3:00"
+      ],
+      "popular_items": [
+        "연어필렛",
+        "브라우니",
+        "소금빵"
+      ],
+      "sold_out_items": [
+        "브라우니",
+        "소금빵"
+      ]
+    },
+    "analyzed_products": [
+      "연어필렛",
+      "브라우니",
+      "소금빵"
+    ]
+  }
+}

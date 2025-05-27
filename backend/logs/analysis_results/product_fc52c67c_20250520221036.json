@@ -1,0 +1,24 @@
+{
+  "status": "completed",
+  "result": {
+    "time_based_orders": [],
+    "customer_based_orders": [],
+    "item_based_summary": [],
+    "table_summary": {
+      "headers": [
+        "품목",
+        "총수량",
+        "주문자"
+      ],
+      "rows": []
+    },
+    "order_pattern_analysis": {
+      "peak_hours": [],
+      "popular_items": [],
+      "sold_out_items": []
+    },
+    "analyzed_products": [
+      "소금빵\n연어필렛\n브라우니"
+    ]
+  }
+}
