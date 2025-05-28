@@ -253,7 +253,7 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
         user_prompt = _create_user_prompt(conversation_chunk, product_list_for_llm, for_main_call=True)
         
         print(f"Claude API 호출 준비 (메인 분석, 대화 길이: {len(conversation_chunk)} 자)")
-        model_name = "claude-opus-4-20250514"
+        model_name = "claude-sonnet-4-20250514"
         print(f"사용 모델: {model_name}")
         # 프롬프트 저장
         try:
@@ -330,18 +330,20 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
             # betas 파라미터 추가
             stream_response = client.beta.messages.create(
                 model=model_name,
-                max_tokens=32000,  # claude-opus-4-20250514 제한에 맞춰 16000으로 수정
+                max_tokens=100000,  
                 system=system_prompt,
-                temperature=1,  # JSON 생성을 위해 temperature 낮춤
+                temperature=1,  
                 thinking={
                     "type": "enabled",
-                    "budget_tokens": 10000  # 생각 토큰도 조정
+                    "budget_tokens": 25000  # 생각 토큰도 조정
                 },
                 stream=True,
+                extra_headers={
+                    "anthropic-beta": "token-efficient-tools-2025-02-19,output-128k-2025-02-19"
+                },
                 messages=[
                     {"role": "user", "content": user_prompt}
-                ],
-                betas=["output-128k-2025-02-19"] # 확장 출력 베타 기능 활성화
+                ]
             )
             
             print("스트리밍 응답 처리 중 (메인 분석)...")
@@ -1029,8 +1031,8 @@ def _process_fallback_chunk(
     try:
         # 표준 client.messages.create 사용, thinking 제거, tool_choice 강제, temperature 0.1
         stream_response = client.messages.create(
-            model="claude-opus-4-20250514",
-            max_tokens=32000, # claude-opus-4-20250514 제한에 맞춰 수정
+            model="claude-sonnet-4-20250514",
+            max_tokens=100000, 
             system=system_prompt_for_fallback_chunk,
             temperature=0.1,
             tools=tools_for_fallback_chunk,
