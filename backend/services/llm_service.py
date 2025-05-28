@@ -330,7 +330,7 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
             # betas 파라미터 추가
             stream_response = client.beta.messages.create(
                 model=model_name,
-                max_tokens=100000,  
+                max_tokens=64000,  
                 system=system_prompt,
                 thinking={
                     "type": "enabled",
@@ -1031,7 +1031,7 @@ def _process_fallback_chunk(
         # 표준 client.messages.create 사용, thinking 제거, tool_choice 강제, temperature 0.1
         stream_response = client.messages.create(
             model="claude-sonnet-4-20250514",
-            max_tokens=100000, 
+            max_tokens=64000, 
             system=system_prompt_for_fallback_chunk,
             temperature=0.1,
             tools=tools_for_fallback_chunk,
