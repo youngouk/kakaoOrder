@@ -332,7 +332,6 @@ def analyze_conversation_chunk(conversation_chunk: str, shop_name: Optional[str]
                 model=model_name,
                 max_tokens=100000,  
                 system=system_prompt,
-                temperature=1,  
                 thinking={
                     "type": "enabled",
                     "budget_tokens": 25000  # 생각 토큰도 조정
